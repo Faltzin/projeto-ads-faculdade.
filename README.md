@@ -1,20 +1,12 @@
-# Meu Primeiro Portfólio Pessoal
+Meu Primeiro Portfólio Pessoal
+Este projeto marca o início da minha jornada como estudante de Análise e Desenvolvimento de Sistemas. Meu objetivo foi criar uma página simples para demonstrar e colocar em prática as habilidades que venho adquirindo.
 
-Objetivo: Este projeto servirá como uma página de portfólio online, onde demonstrarei as habilidades que estou adquirindo em Análise e Desenvolvimento de Sistemas.
+Tecnologias Utilizadas
+HTML: Para dar a estrutura e organizar o conteúdo da página.
 
-Tecnologias: O projeto será desenvolvido usando HTML, CSS e JavaScript.
+CSS: Para dar vida ao projeto, tornando o design visualmente atraente.
 
-O que estou aprendendo: Estou focando em aprender a estruturar páginas web, estilizar elementos e adicionar interatividade básica, além de praticar o uso do Git para controle de versão.
+JavaScript: Para adicionar interatividade e tornar a experiência do usuário mais dinâmica.
 
-# Meu Primeiro Portfólio Pessoal
-
-# Objetivo
-Este é um projeto simples para demonstrar minhas habilidades básicas de desenvolvimento web. A ideia é criar uma página web estática que servirá como meu portfólio.
-
-# Tecnologias Utilizadas
-* **HTML:** Para estruturar o conteúdo da página.
-* **CSS:** Para estilizar a página e torná-la visualmente atraente.
-* **JavaScript:** Para adicionar interatividade, como um alerta ao clicar no botão.
-
-# O que Aprendi
-Com este projeto, pude praticar a criação da estrutura de uma página web, a estilização com CSS e a adição de uma funcionalidade básica com JavaScript, além de aprender a usar o GitHub para versionamento de código.
+O que Aprendi
+Neste projeto, tive a oportunidade de praticar a união das três tecnologias essenciais do desenvolvimento web. Além de construir a página, aprendi a usar o Git e o GitHub para o versionamento de código, um passo fundamental para o meu desenvolvimento como programador.
